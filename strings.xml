@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="hint_input1">Zadejte první číslo</string>
+    <string name="hint_input2">Zadejte druhé číslo</string>
+    <string name="add">Sčítání</string>
+    <string name="subtract">Odčítání</string>
+    <string name="multiply">Násobení</string>
+    <string name="divide">Dělení</string>
+    <string name="modulo">Modulo</string>
+    <string name="power">Ntá mocnina</string>
+    <string name="root">Ntá odmocnina</string>
+    <string name="factorial">Faktoriál</string>
+    <string name="result">Výsledek:</string>
+    <string name="error_divide_by_zero">Chyba: dělení nulou!</string>
+    <string name="error_negative_root">Chyba: záporné číslo!</string>
+    <string name="error_invalid_input">Chyba: neplatný vstup!</string>
+</resources>
